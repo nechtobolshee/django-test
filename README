@@ -1,0 +1,15 @@
+To run this app you must have:
+Python3
+SQLite3
+
+And Python libraries:
+django
+rest_framework
+datetime
+
+Download all libraries and run command:
+---> python manage.py runserver
+
+Open browser and paste this link:
+---> http://127.0.0.1:8000/candidate/
+
